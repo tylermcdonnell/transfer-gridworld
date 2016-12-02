@@ -1,0 +1,500 @@
+     0: >>> E[0:00:00]-R[?]: Return=   -0.9847, Steps=5.74, Features = 20
+     3: E[0:00:01]-R[0:03:18]: Return=    -1.002, Steps=   3, Features = 20
+   100: >>> E[0:00:02]-R[0:00:15]: Return=    -1.016, Steps=17.35, Features = 20
+   200: >>> E[0:00:03]-R[0:00:10]: Return=    -1.011, Steps=11.87, Features = 20
+   300: >>> E[0:00:04]-R[0:00:08]: Return=    -0.877, Steps=17.98, Features = 20
+   400: >>> E[0:00:05]-R[0:00:07]: Return=    -1.003, Steps=4.44, Features = 20
+   500: >>> E[0:00:05]-R[0:00:05]: Return=   -0.8941, Steps=15.1, Features = 20
+   600: >>> E[0:00:06]-R[0:00:04]: Return=    -1.015, Steps=16.37, Features = 20
+   700: >>> E[0:00:07]-R[0:00:03]: Return=    -0.996, Steps=16.96, Features = 20
+   800: >>> E[0:00:08]-R[0:00:02]: Return=   -0.9753, Steps=16.34, Features = 20
+   900: >>> E[0:00:09]-R[0:00:01]: Return=   -0.6562, Steps=17.25, Features = 20
+  1000: >>> E[0:00:10]-R[0:00:00]: Return=   -0.6341, Steps=15.12, Features = 20
+Total Experiment Duration 0:00:10
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.9847, Steps=5.74, Features = 20
+    66: E[0:00:01]-R[0:00:09]: Return=    -1.003, Steps=   4, Features = 20
+   100: >>> E[0:00:01]-R[0:00:09]: Return=    -1.016, Steps=17.35, Features = 20
+   200: >>> E[0:00:02]-R[0:00:07]: Return=    -1.011, Steps=11.87, Features = 20
+   300: >>> E[0:00:03]-R[0:00:06]: Return=    -0.877, Steps=17.98, Features = 20
+   400: >>> E[0:00:04]-R[0:00:06]: Return=    -1.003, Steps=4.44, Features = 20
+   500: >>> E[0:00:05]-R[0:00:05]: Return=   -0.8941, Steps=15.1, Features = 20
+   600: >>> E[0:00:06]-R[0:00:04]: Return=    -1.015, Steps=16.37, Features = 20
+   700: >>> E[0:00:07]-R[0:00:03]: Return=    -0.996, Steps=16.96, Features = 20
+   800: >>> E[0:00:08]-R[0:00:02]: Return=   -0.9753, Steps=16.34, Features = 20
+   900: >>> E[0:00:08]-R[0:00:01]: Return=   -0.6562, Steps=17.25, Features = 20
+  1000: >>> E[0:00:09]-R[0:00:00]: Return=   -0.6341, Steps=15.12, Features = 20
+Total Experiment Duration 0:00:09
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.9847, Steps=5.74, Features = 20
+    66: E[0:00:01]-R[0:00:09]: Return=    -1.003, Steps=   4, Features = 20
+   100: >>> E[0:00:01]-R[0:00:09]: Return=    -1.016, Steps=17.35, Features = 20
+   200: >>> E[0:00:02]-R[0:00:08]: Return=    -1.011, Steps=11.87, Features = 20
+   300: >>> E[0:00:03]-R[0:00:06]: Return=    -0.877, Steps=17.98, Features = 20
+   400: >>> E[0:00:04]-R[0:00:05]: Return=    -1.003, Steps=4.44, Features = 20
+   500: >>> E[0:00:04]-R[0:00:04]: Return=   -0.8941, Steps=15.1, Features = 20
+   600: >>> E[0:00:05]-R[0:00:04]: Return=    -1.015, Steps=16.37, Features = 20
+   700: >>> E[0:00:06]-R[0:00:03]: Return=    -0.996, Steps=16.96, Features = 20
+   800: >>> E[0:00:07]-R[0:00:02]: Return=   -0.9753, Steps=16.34, Features = 20
+   900: >>> E[0:00:08]-R[0:00:01]: Return=   -0.6562, Steps=17.25, Features = 20
+  1000: >>> E[0:00:09]-R[0:00:00]: Return=   -0.6341, Steps=15.12, Features = 20
+Total Experiment Duration 0:00:09
+     0: >>> E[0:00:00]-R[?]: Return=   -0.9847, Steps=5.74, Features = 20
+    45: E[0:00:01]-R[0:00:13]: Return=    -1.009, Steps=  10, Features = 20
+   100: >>> E[0:00:01]-R[0:00:11]: Return=    -1.016, Steps=17.35, Features = 20
+   200: >>> E[0:00:02]-R[0:00:08]: Return=    -1.011, Steps=11.87, Features = 20
+   297: E[0:00:03]-R[0:00:07]: Return=    -1.012, Steps=  13, Features = 20
+   300: >>> E[0:00:03]-R[0:00:07]: Return=    -0.877, Steps=17.98, Features = 20
+   400: >>> E[0:00:04]-R[0:00:06]: Return=    -1.003, Steps=4.44, Features = 20
+   500: >>> E[0:00:05]-R[0:00:05]: Return=   -0.8941, Steps=15.1, Features = 20
+   600: >>> E[0:00:06]-R[0:00:04]: Return=    -1.015, Steps=16.37, Features = 20
+   700: >>> E[0:00:07]-R[0:00:03]: Return=    -0.996, Steps=16.96, Features = 20
+   800: >>> E[0:00:08]-R[0:00:02]: Return=   -0.9753, Steps=16.34, Features = 20
+   900: >>> E[0:00:08]-R[0:00:01]: Return=   -0.6562, Steps=17.25, Features = 20
+  1000: >>> E[0:00:09]-R[0:00:00]: Return=   -0.6341, Steps=15.12, Features = 20
+Total Experiment Duration 0:00:09
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=    -1.003, Steps=3.63, Features = 16
+     0: >>> E[0:00:00]-R[?]: Return=    -1.003, Steps=3.63, Features = 16
+   100: >>> E[0:00:01]-R[0:00:07]: Return=    -1.017, Steps=18.18, Features = 16
+   200: >>> E[0:00:02]-R[0:00:06]: Return=    -1.017, Steps=17.56, Features = 16
+   300: >>> E[0:00:03]-R[0:00:06]: Return=    -1.015, Steps=16.46, Features = 16
+   400: >>> E[0:00:03]-R[0:00:05]: Return=    -1.017, Steps=18.09, Features = 16
+   500: >>> E[0:00:04]-R[0:00:04]: Return=    -1.018, Steps=19.47, Features = 16
+   600: >>> E[0:00:05]-R[0:00:03]: Return=    -1.007, Steps=8.45, Features = 16
+   700: >>> E[0:00:06]-R[0:00:03]: Return=    -1.007, Steps=7.78, Features = 16
+   800: >>> E[0:00:07]-R[0:00:02]: Return=    -1.017, Steps=17.51, Features = 16
+   900: >>> E[0:00:07]-R[0:00:01]: Return=    -1.009, Steps=9.62, Features = 16
+  1000: >>> E[0:00:08]-R[0:00:00]: Return=    -1.014, Steps=15.07, Features = 16
+Total Experiment Duration 0:00:08
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=    -1.003, Steps=3.63, Features = 16
+   102: E[0:00:01]-R[0:01:27]: Return=    -1.059, Steps=  60, Features = 16
+   257: E[0:00:02]-R[0:01:22]: Return=    -1.044, Steps=  45, Features = 16
+   368: E[0:00:03]-R[0:01:24]: Return=    -1.009, Steps=  10, Features = 16
+   487: E[0:00:04]-R[0:01:22]: Return=    -1.026, Steps=  27, Features = 16
+   606: E[0:00:05]-R[0:01:21]: Return=    -1.002, Steps=   3, Features = 16
+   719: E[0:00:06]-R[0:01:20]: Return=    -1.001, Steps=   2, Features = 16
+   838: E[0:00:07]-R[0:01:20]: Return=    -1.007, Steps=   8, Features = 16
+   979: E[0:00:08]-R[0:01:18]: Return=    -1.049, Steps=  50, Features = 16
+  1000: >>> E[0:00:09]-R[0:01:17]: Return=    -1.017, Steps=18.18, Features = 16
+  1126: E[0:00:10]-R[0:01:16]: Return=    -1.007, Steps=   8, Features = 16
+  1248: E[0:00:11]-R[0:01:15]: Return=    -1.005, Steps=   6, Features = 16
+  1389: E[0:00:12]-R[0:01:13]: Return=    -1.027, Steps=  28, Features = 16
+  1523: E[0:00:13]-R[0:01:11]: Return=    -1.003, Steps=   4, Features = 16
+  1677: E[0:00:14]-R[0:01:09]: Return=    -1.027, Steps=  28, Features = 16
+  1813: E[0:00:15]-R[0:01:08]: Return=    -1.017, Steps=  18, Features = 16
+  1945: E[0:00:16]-R[0:01:06]: Return=    -1.021, Steps=  22, Features = 16
+  2000: >>> E[0:00:16]-R[0:01:06]: Return=    -1.017, Steps=17.56, Features = 16
+  2162: E[0:00:18]-R[0:01:04]: Return=    -1.028, Steps=  29, Features = 16
+  2303: E[0:00:19]-R[0:01:03]: Return=    -1.021, Steps=  22, Features = 16
+  2432: E[0:00:20]-R[0:01:02]: Return=    -1.004, Steps=   5, Features = 16
+  2572: E[0:00:21]-R[0:01:00]: Return=    -1.019, Steps=  20, Features = 16
+  2712: E[0:00:22]-R[0:00:59]: Return=    -1.019, Steps=  20, Features = 16
+  2841: E[0:00:23]-R[0:00:58]: Return=    -1.013, Steps=  14, Features = 16
+  3000: >>> E[0:00:24]-R[0:00:57]: Return=    -1.015, Steps=16.46, Features = 16
+  3132: E[0:00:25]-R[0:00:56]: Return=    -1.007, Steps=   8, Features = 16
+  3257: E[0:00:26]-R[0:00:55]: Return=    -1.005, Steps=   6, Features = 16
+  3386: E[0:00:27]-R[0:00:53]: Return=    -1.021, Steps=  22, Features = 16
+  3524: E[0:00:28]-R[0:00:52]: Return=    -1.015, Steps=  16, Features = 16
+  3658: E[0:00:29]-R[0:00:51]: Return=    -1.017, Steps=  18, Features = 16
+  3808: E[0:00:31]-R[0:00:50]: Return=    -1.027, Steps=  28, Features = 16
+  3937: E[0:00:32]-R[0:00:49]: Return=    -1.001, Steps=   2, Features = 16
+  4000: >>> E[0:00:32]-R[0:00:48]: Return=    -1.017, Steps=18.09, Features = 16
+  4171: E[0:00:33]-R[0:00:46]: Return=    -1.051, Steps=  52, Features = 16
+  4311: E[0:00:34]-R[0:00:45]: Return=    -1.038, Steps=  39, Features = 16
+     0: >>> E[0:00:00]-R[?]: Return=        -1, Steps= 1.0, Features = 16
+    46: E[0:00:01]-R[0:00:15]: Return=        -1, Steps=   1, Features = 16
+   100: >>> E[0:00:02]-R[0:00:14]: Return=        -1, Steps= 1.0, Features = 16
+   172: E[0:00:03]-R[0:00:12]: Return=        -1, Steps=   1, Features = 16
+   200: >>> E[0:00:03]-R[0:00:12]: Return=        -1, Steps= 1.0, Features = 16
+   263: E[0:00:04]-R[0:00:11]: Return=        -1, Steps=   1, Features = 16
+   300: >>> E[0:00:05]-R[0:00:11]: Return=        -1, Steps= 1.0, Features = 16
+   363: E[0:00:06]-R[0:00:10]: Return=        -1, Steps=   1, Features = 16
+   400: >>> E[0:00:06]-R[0:00:09]: Return=        -1, Steps= 1.0, Features = 16
+   477: E[0:00:07]-R[0:00:08]: Return=        -1, Steps=   1, Features = 16
+   500: >>> E[0:00:07]-R[0:00:07]: Return=        -1, Steps= 1.0, Features = 16
+   571: E[0:00:08]-R[0:00:06]: Return=        -1, Steps=   1, Features = 16
+   600: >>> E[0:00:09]-R[0:00:06]: Return=        -1, Steps= 1.0, Features = 16
+   669: E[0:00:10]-R[0:00:05]: Return=        -1, Steps=   1, Features = 16
+   700: >>> E[0:00:10]-R[0:00:04]: Return=        -1, Steps= 1.0, Features = 16
+   779: E[0:00:11]-R[0:00:03]: Return=        -1, Steps=   1, Features = 16
+   800: >>> E[0:00:12]-R[0:00:03]: Return=        -1, Steps= 1.0, Features = 16
+   878: E[0:00:13]-R[0:00:02]: Return=        -1, Steps=   1, Features = 16
+   900: >>> E[0:00:13]-R[0:00:01]: Return=        -1, Steps= 1.0, Features = 16
+   977: E[0:00:14]-R[0:00:00]: Return=        -1, Steps=   1, Features = 16
+  1000: >>> E[0:00:14]-R[0:00:00]: Return=        -1, Steps= 1.0, Features = 16
+Total Experiment Duration 0:00:14
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    92: E[0:00:01]-R[0:00:07]: Return=     0.981, Steps=  20, Features = 16
+   100: >>> E[0:00:01]-R[0:00:07]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:07]: Return=    0.0023, Steps=18.7, Features = 16
+   300: >>> E[0:00:03]-R[0:00:06]: Return=    0.2923, Steps=8.74, Features = 16
+   400: >>> E[0:00:04]-R[0:00:05]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:04]-R[0:00:04]: Return=     0.308, Steps=12.98, Features = 16
+   600: >>> E[0:00:05]-R[0:00:03]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:06]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   800: >>> E[0:00:07]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+   900: >>> E[0:00:08]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+  1000: >>> E[0:00:09]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:09
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    66: E[0:00:01]-R[0:00:09]: Return=    -1.003, Steps=   4, Features = 16
+   100: >>> E[0:00:01]-R[0:00:09]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:08]: Return=    0.0023, Steps=18.7, Features = 16
+   300: >>> E[0:00:03]-R[0:00:07]: Return=    0.2923, Steps=8.74, Features = 16
+   400: >>> E[0:00:04]-R[0:00:06]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:05]-R[0:00:05]: Return=     0.308, Steps=12.98, Features = 16
+   600: >>> E[0:00:05]-R[0:00:04]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:06]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   800: >>> E[0:00:07]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+   900: >>> E[0:00:08]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+  1000: >>> E[0:00:09]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:09
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    62: E[0:00:01]-R[0:01:33]: Return=    -1.015, Steps=  16, Features = 16
+   184: E[0:00:02]-R[0:01:28]: Return=     0.977, Steps=  24, Features = 16
+   300: E[0:00:03]-R[0:01:27]: Return=     0.987, Steps=  14, Features = 16
+   454: E[0:00:04]-R[0:01:24]: Return=     0.957, Steps=  44, Features = 16
+   578: E[0:00:05]-R[0:01:22]: Return=     0.985, Steps=  16, Features = 16
+   694: E[0:00:06]-R[0:01:21]: Return=    -1.003, Steps=   4, Features = 16
+   810: E[0:00:07]-R[0:01:20]: Return=     0.989, Steps=  12, Features = 16
+   920: E[0:00:08]-R[0:01:20]: Return=     0.993, Steps=   8, Features = 16
+  1000: >>> E[0:00:09]-R[0:01:20]: Return=    0.6513, Steps=9.66, Features = 16
+  1118: E[0:00:10]-R[0:01:19]: Return=    -1.025, Steps=  26, Features = 16
+  1232: E[0:00:11]-R[0:01:19]: Return=    -1.017, Steps=  18, Features = 16
+  1338: E[0:00:12]-R[0:01:18]: Return=     0.981, Steps=  20, Features = 16
+  1456: E[0:00:13]-R[0:01:17]: Return=     0.991, Steps=  10, Features = 16
+  1586: E[0:00:14]-R[0:01:16]: Return=     0.979, Steps=  22, Features = 16
+  1694: E[0:00:15]-R[0:01:15]: Return=     0.995, Steps=   6, Features = 16
+  1796: E[0:00:16]-R[0:01:15]: Return=    -1.011, Steps=  12, Features = 16
+  1934: E[0:00:18]-R[0:01:14]: Return=     0.943, Steps=  58, Features = 16
+  2000: >>> E[0:00:18]-R[0:01:13]: Return=    0.5922, Steps=8.76, Features = 16
+  2120: E[0:00:19]-R[0:01:12]: Return=     0.987, Steps=  14, Features = 16
+  2232: E[0:00:20]-R[0:01:11]: Return=     0.991, Steps=  10, Features = 16
+  2346: E[0:00:21]-R[0:01:10]: Return=     0.971, Steps=  30, Features = 16
+  2450: E[0:00:22]-R[0:01:09]: Return=     0.985, Steps=  16, Features = 16
+  2556: E[0:00:24]-R[0:01:09]: Return=     0.993, Steps=   8, Features = 16
+  2664: E[0:00:25]-R[0:01:08]: Return=     0.991, Steps=  10, Features = 16
+  2786: E[0:00:26]-R[0:01:06]: Return=     0.991, Steps=  10, Features = 16
+  2902: E[0:00:27]-R[0:01:05]: Return=     0.991, Steps=  10, Features = 16
+  3000: >>> E[0:00:28]-R[0:01:04]: Return=    0.6129, Steps=8.14, Features = 16
+  3110: E[0:00:29]-R[0:01:03]: Return=     0.995, Steps=   6, Features = 16
+  3230: E[0:00:30]-R[0:01:02]: Return=     0.979, Steps=  22, Features = 16
+  3342: E[0:00:31]-R[0:01:01]: Return=     0.989, Steps=  12, Features = 16
+  3508: E[0:00:32]-R[0:01:00]: Return=     0.927, Steps=  74, Features = 16
+  3624: E[0:00:33]-R[0:00:59]: Return=     0.987, Steps=  14, Features = 16
+  3742: E[0:00:34]-R[0:00:58]: Return=    -1.013, Steps=  14, Features = 16
+  3862: E[0:00:35]-R[0:00:56]: Return=     0.993, Steps=   8, Features = 16
+  3982: E[0:00:37]-R[0:00:55]: Return=     0.989, Steps=  12, Features = 16
+  4000: >>> E[0:00:37]-R[0:00:55]: Return=    0.6116, Steps=9.44, Features = 16
+  4122: E[0:00:38]-R[0:00:54]: Return=     0.993, Steps=   8, Features = 16
+  4242: E[0:00:39]-R[0:00:53]: Return=     0.987, Steps=  14, Features = 16
+  4358: E[0:00:40]-R[0:00:52]: Return=    -1.005, Steps=   6, Features = 16
+  4472: E[0:00:41]-R[0:00:51]: Return=     0.993, Steps=   8, Features = 16
+  4596: E[0:00:42]-R[0:00:49]: Return=     0.987, Steps=  14, Features = 16
+  4714: E[0:00:43]-R[0:00:48]: Return=     0.991, Steps=  10, Features = 16
+  4818: E[0:00:44]-R[0:00:48]: Return=     0.991, Steps=  10, Features = 16
+  4944: E[0:00:45]-R[0:00:46]: Return=     0.989, Steps=  12, Features = 16
+  5000: >>> E[0:00:46]-R[0:00:46]: Return=     0.573, Steps=7.98, Features = 16
+  5130: E[0:00:47]-R[0:00:45]: Return=     0.985, Steps=  16, Features = 16
+  5248: E[0:00:48]-R[0:00:43]: Return=    -1.001, Steps=   2, Features = 16
+  5386: E[0:00:49]-R[0:00:42]: Return=     0.991, Steps=  10, Features = 16
+  5498: E[0:00:50]-R[0:00:41]: Return=     0.991, Steps=  10, Features = 16
+  5620: E[0:00:51]-R[0:00:40]: Return=     0.979, Steps=  22, Features = 16
+  5724: E[0:00:52]-R[0:00:39]: Return=     0.995, Steps=   6, Features = 16
+  5840: E[0:00:53]-R[0:00:38]: Return=     0.985, Steps=  16, Features = 16
+  5940: E[0:00:54]-R[0:00:37]: Return=    -1.001, Steps=   2, Features = 16
+  6000: >>> E[0:00:55]-R[0:00:37]: Return=    0.5524, Steps= 8.6, Features = 16
+  6122: E[0:00:56]-R[0:00:35]: Return=     0.981, Steps=  20, Features = 16
+  6226: E[0:00:57]-R[0:00:35]: Return=     0.989, Steps=  12, Features = 16
+  6342: E[0:00:58]-R[0:00:33]: Return=     0.979, Steps=  22, Features = 16
+  6452: E[0:00:59]-R[0:00:32]: Return=    -1.003, Steps=   4, Features = 16
+  6562: E[0:01:00]-R[0:00:31]: Return=     0.991, Steps=  10, Features = 16
+  6664: E[0:01:01]-R[0:00:31]: Return=    -1.003, Steps=   4, Features = 16
+  6778: E[0:01:02]-R[0:00:30]: Return=     0.995, Steps=   6, Features = 16
+  6880: E[0:01:03]-R[0:00:29]: Return=     0.991, Steps=  10, Features = 16
+  6978: E[0:01:04]-R[0:00:28]: Return=     0.991, Steps=  10, Features = 16
+  7000: >>> E[0:01:04]-R[0:00:28]: Return=    0.6924, Steps=8.62, Features = 16
+  7104: E[0:01:06]-R[0:00:27]: Return=     0.991, Steps=  10, Features = 16
+  7204: E[0:01:07]-R[0:00:26]: Return=     0.993, Steps=   8, Features = 16
+  7328: E[0:01:08]-R[0:00:25]: Return=     0.995, Steps=   6, Features = 16
+  7444: E[0:01:09]-R[0:00:24]: Return=     0.995, Steps=   6, Features = 16
+  7548: E[0:01:10]-R[0:00:23]: Return=    -1.001, Steps=   2, Features = 16
+  7644: E[0:01:11]-R[0:00:22]: Return=     0.991, Steps=  10, Features = 16
+  7760: E[0:01:12]-R[0:00:21]: Return=     0.991, Steps=  10, Features = 16
+  7868: E[0:01:13]-R[0:00:20]: Return=     0.989, Steps=  12, Features = 16
+  7964: E[0:01:14]-R[0:00:19]: Return=     0.991, Steps=  10, Features = 16
+  8000: >>> E[0:01:14]-R[0:00:19]: Return=    0.6319, Steps=9.06, Features = 16
+  8110: E[0:01:15]-R[0:00:18]: Return=     0.971, Steps=  30, Features = 16
+  8226: E[0:01:16]-R[0:00:16]: Return=     0.995, Steps=   6, Features = 16
+  8324: E[0:01:18]-R[0:00:16]: Return=     0.995, Steps=   6, Features = 16
+  8416: E[0:01:19]-R[0:00:15]: Return=    -1.001, Steps=   2, Features = 16
+  8518: E[0:01:20]-R[0:00:14]: Return=     0.967, Steps=  34, Features = 16
+  8634: E[0:01:21]-R[0:00:13]: Return=     0.991, Steps=  10, Features = 16
+  8742: E[0:01:22]-R[0:00:12]: Return=     0.995, Steps=   6, Features = 16
+  8852: E[0:01:23]-R[0:00:11]: Return=     0.989, Steps=  12, Features = 16
+  8962: E[0:01:24]-R[0:00:10]: Return=     0.995, Steps=   6, Features = 16
+  9000: >>> E[0:01:24]-R[0:00:09]: Return=    0.6326, Steps=8.38, Features = 16
+  9124: E[0:01:25]-R[0:00:08]: Return=     0.993, Steps=   8, Features = 16
+  9236: E[0:01:26]-R[0:00:07]: Return=     0.989, Steps=  12, Features = 16
+  9352: E[0:01:27]-R[0:00:06]: Return=     0.991, Steps=  10, Features = 16
+  9456: E[0:01:28]-R[0:00:05]: Return=     0.991, Steps=  10, Features = 16
+  9584: E[0:01:29]-R[0:00:04]: Return=     0.971, Steps=  30, Features = 16
+  9708: E[0:01:30]-R[0:00:03]: Return=     0.995, Steps=   6, Features = 16
+  9836: E[0:01:31]-R[0:00:02]: Return=     0.993, Steps=   8, Features = 16
+  9952: E[0:01:32]-R[0:00:00]: Return=     0.995, Steps=   6, Features = 16
+ 10000: >>> E[0:01:33]-R[0:00:00]: Return=     0.533, Steps=7.96, Features = 16
+Total Experiment Duration 0:01:33
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    62: E[0:00:01]-R[0:00:09]: Return=    -1.015, Steps=  16, Features = 16
+   100: >>> E[0:00:01]-R[0:00:09]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:08]: Return=    0.0023, Steps=18.7, Features = 16
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    72: E[0:00:01]-R[0:00:09]: Return=    -1.005, Steps=   6, Features = 16
+   100: >>> E[0:00:01]-R[0:00:09]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:08]: Return=    0.0023, Steps=18.7, Features = 16
+   300: >>> E[0:00:03]-R[0:00:07]: Return=    0.2923, Steps=8.74, Features = 16
+   400: >>> E[0:00:04]-R[0:00:06]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:05]-R[0:00:05]: Return=     0.308, Steps=12.98, Features = 16
+   600: >>> E[0:00:05]-R[0:00:04]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:06]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   800: >>> E[0:00:07]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+   900: >>> E[0:00:08]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+  1000: >>> E[0:00:09]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:09
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    72: E[0:00:01]-R[0:00:08]: Return=    -1.005, Steps=   6, Features = 16
+   100: >>> E[0:00:01]-R[0:00:08]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:07]: Return=    0.0023, Steps=18.7, Features = 16
+   300: >>> E[0:00:03]-R[0:00:06]: Return=    0.2923, Steps=8.74, Features = 16
+   400: >>> E[0:00:03]-R[0:00:05]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:04]-R[0:00:04]: Return=     0.308, Steps=12.98, Features = 16
+   600: >>> E[0:00:05]-R[0:00:03]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:06]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   800: >>> E[0:00:07]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+   900: >>> E[0:00:08]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+  1000: >>> E[0:00:08]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:08
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    66: E[0:00:01]-R[0:00:09]: Return=    -1.003, Steps=   4, Features = 16
+   100: >>> E[0:00:01]-R[0:00:09]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:08]: Return=    0.0023, Steps=18.7, Features = 16
+   300: E[0:00:03]-R[0:00:07]: Return=     0.991, Steps=  10, Features = 16
+   300: >>> E[0:00:03]-R[0:00:07]: Return=    0.2923, Steps=8.74, Features = 16
+   400: >>> E[0:00:04]-R[0:00:06]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:05]-R[0:00:05]: Return=     0.308, Steps=12.98, Features = 16
+   600: >>> E[0:00:06]-R[0:00:04]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:07]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   800: >>> E[0:00:08]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    46: E[0:00:01]-R[0:00:11]: Return=    -1.021, Steps=  22, Features = 16
+   100: >>> E[0:00:01]-R[0:00:10]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:09]: Return=    0.0023, Steps=18.7, Features = 16
+   300: >>> E[0:00:03]-R[0:00:07]: Return=    0.2923, Steps=8.74, Features = 16
+   396: E[0:00:04]-R[0:00:06]: Return=    -1.005, Steps=   6, Features = 16
+   400: >>> E[0:00:04]-R[0:00:06]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:05]-R[0:00:05]: Return=     0.308, Steps=12.98, Features = 16
+   596: E[0:00:06]-R[0:00:04]: Return=     0.989, Steps=  12, Features = 16
+   600: >>> E[0:00:06]-R[0:00:04]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:07]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   792: E[0:00:08]-R[0:00:02]: Return=     0.975, Steps=  26, Features = 16
+   800: >>> E[0:00:08]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+   900: >>> E[0:00:09]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+  1000: >>> E[0:00:10]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:10
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    66: E[0:00:01]-R[0:00:09]: Return=    -1.003, Steps=   4, Features = 16
+   100: >>> E[0:00:01]-R[0:00:10]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:08]: Return=    0.0023, Steps=18.7, Features = 16
+   300: E[0:00:03]-R[0:00:07]: Return=     0.991, Steps=  10, Features = 16
+   300: >>> E[0:00:03]-R[0:00:07]: Return=    0.2923, Steps=8.74, Features = 16
+   400: >>> E[0:00:04]-R[0:00:06]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:05]-R[0:00:05]: Return=     0.308, Steps=12.98, Features = 16
+   600: >>> E[0:00:06]-R[0:00:04]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:07]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   800: >>> E[0:00:08]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+   900: >>> E[0:00:09]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+  1000: >>> E[0:00:10]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:10
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    72: E[0:00:01]-R[0:00:09]: Return=    -1.005, Steps=   6, Features = 16
+   100: >>> E[0:00:01]-R[0:00:09]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:08]: Return=    0.0023, Steps=18.7, Features = 16
+   300: E[0:00:03]-R[0:00:07]: Return=     0.991, Steps=  10, Features = 16
+   300: >>> E[0:00:03]-R[0:00:07]: Return=    0.2923, Steps=8.74, Features = 16
+   400: >>> E[0:00:04]-R[0:00:06]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:05]-R[0:00:05]: Return=     0.308, Steps=12.98, Features = 16
+   600: >>> E[0:00:06]-R[0:00:04]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:07]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   800: >>> E[0:00:08]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+   900: >>> E[0:00:09]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+   998: E[0:00:10]-R[0:00:00]: Return=     0.993, Steps=   8, Features = 16
+  1000: >>> E[0:00:10]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:10
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    46: E[0:00:01]-R[0:00:11]: Return=    -1.021, Steps=  22, Features = 16
+   100: >>> E[0:00:01]-R[0:00:11]: Return=    -1.012, Steps=12.72, Features = 16
+   184: E[0:00:02]-R[0:00:10]: Return=     0.985, Steps=  16, Features = 16
+   200: >>> E[0:00:03]-R[0:00:10]: Return=    0.0023, Steps=18.7, Features = 16
+   290: E[0:00:04]-R[0:00:09]: Return=     0.995, Steps=   6, Features = 16
+   300: >>> E[0:00:04]-R[0:00:09]: Return=    0.2923, Steps=8.74, Features = 16
+   400: >>> E[0:00:05]-R[0:00:07]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:06]-R[0:00:06]: Return=     0.308, Steps=12.98, Features = 16
+   596: E[0:00:07]-R[0:00:05]: Return=     0.989, Steps=  12, Features = 16
+   600: >>> E[0:00:07]-R[0:00:05]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:08]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   800: >>> E[0:00:09]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+   900: >>> E[0:00:10]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+  1000: >>> E[0:00:11]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:11
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+     2: E[0:00:00]-R[0:01:45]: Return=    -1.001, Steps=   2, Features = 16
+    62: E[0:00:01]-R[0:01:33]: Return=    -1.015, Steps=  16, Features = 16
+   118: E[0:00:02]-R[0:01:32]: Return=    -1.003, Steps=   4, Features = 16
+   184: E[0:00:04]-R[0:01:32]: Return=     0.977, Steps=  24, Features = 16
+   258: E[0:00:05]-R[0:01:29]: Return=     0.981, Steps=  20, Features = 16
+   314: E[0:00:06]-R[0:01:28]: Return=    -1.013, Steps=  14, Features = 16
+   370: E[0:00:07]-R[0:01:26]: Return=     0.989, Steps=  12, Features = 16
+   454: E[0:00:08]-R[0:01:24]: Return=     0.957, Steps=  44, Features = 16
+   500: >>> E[0:00:09]-R[0:01:25]: Return=    0.6713, Steps=9.66, Features = 16
+   566: E[0:00:11]-R[0:01:23]: Return=     0.993, Steps=   8, Features = 16
+   644: E[0:00:12]-R[0:01:20]: Return=     0.933, Steps=  68, Features = 16
+   710: E[0:00:13]-R[0:01:19]: Return=     0.987, Steps=  14, Features = 16
+   772: E[0:00:14]-R[0:01:18]: Return=    -1.019, Steps=  20, Features = 16
+   838: E[0:00:16]-R[0:01:17]: Return=     0.987, Steps=  14, Features = 16
+   888: E[0:00:17]-R[0:01:17]: Return=     0.991, Steps=  10, Features = 16
+   940: E[0:00:18]-R[0:01:17]: Return=     0.993, Steps=   8, Features = 16
+   988: E[0:00:19]-R[0:01:16]: Return=     0.991, Steps=  10, Features = 16
+  1000: >>> E[0:00:19]-R[0:01:16]: Return=    0.6326, Steps= 8.4, Features = 16
+  1054: E[0:00:20]-R[0:01:15]: Return=     0.995, Steps=   6, Features = 16
+  1128: E[0:00:21]-R[0:01:13]: Return=     0.969, Steps=  32, Features = 16
+  1184: E[0:00:22]-R[0:01:12]: Return=     0.993, Steps=   8, Features = 16
+  1240: E[0:00:24]-R[0:01:11]: Return=     0.989, Steps=  12, Features = 16
+  1296: E[0:00:25]-R[0:01:10]: Return=     0.993, Steps=   8, Features = 16
+  1356: E[0:00:26]-R[0:01:09]: Return=     0.993, Steps=   8, Features = 16
+  1408: E[0:00:27]-R[0:01:08]: Return=    -1.015, Steps=  16, Features = 16
+  1474: E[0:00:28]-R[0:01:07]: Return=     0.983, Steps=  18, Features = 16
+  1500: >>> E[0:00:28]-R[0:01:06]: Return=    0.5727, Steps=8.26, Features = 16
+  1562: E[0:00:30]-R[0:01:05]: Return=     0.975, Steps=  26, Features = 16
+  1616: E[0:00:31]-R[0:01:04]: Return=     0.995, Steps=   6, Features = 16
+  1678: E[0:00:32]-R[0:01:03]: Return=     0.995, Steps=   6, Features = 16
+  1740: E[0:00:33]-R[0:01:02]: Return=     0.993, Steps=   8, Features = 16
+  1798: E[0:00:34]-R[0:01:00]: Return=     0.987, Steps=  14, Features = 16
+  1850: E[0:00:35]-R[0:01:00]: Return=     0.993, Steps=   8, Features = 16
+  1908: E[0:00:36]-R[0:00:59]: Return=     0.981, Steps=  20, Features = 16
+  1966: E[0:00:37]-R[0:00:58]: Return=     0.993, Steps=   8, Features = 16
+  2000: >>> E[0:00:38]-R[0:00:57]: Return=    0.5722, Steps= 8.8, Features = 16
+  2064: E[0:00:39]-R[0:00:56]: Return=     0.983, Steps=  18, Features = 16
+  2116: E[0:00:40]-R[0:00:55]: Return=     0.991, Steps=  10, Features = 16
+  2192: E[0:00:41]-R[0:00:53]: Return=     0.985, Steps=  16, Features = 16
+  2246: E[0:00:43]-R[0:00:52]: Return=     0.987, Steps=  14, Features = 16
+  2304: E[0:00:44]-R[0:00:51]: Return=     0.995, Steps=   6, Features = 16
+  2368: E[0:00:45]-R[0:00:50]: Return=     0.991, Steps=  10, Features = 16
+  2426: E[0:00:46]-R[0:00:49]: Return=     0.995, Steps=   6, Features = 16
+  2474: E[0:00:47]-R[0:00:48]: Return=     0.995, Steps=   6, Features = 16
+  2500: >>> E[0:00:47]-R[0:00:47]: Return=    0.5728, Steps= 8.2, Features = 16
+  2554: E[0:00:49]-R[0:00:46]: Return=     0.985, Steps=  16, Features = 16
+  2604: E[0:00:50]-R[0:00:46]: Return=     0.995, Steps=   6, Features = 16
+  2674: E[0:00:51]-R[0:00:44]: Return=     0.981, Steps=  20, Features = 16
+  2722: E[0:00:52]-R[0:00:43]: Return=     0.981, Steps=  20, Features = 16
+  2792: E[0:00:53]-R[0:00:42]: Return=     0.963, Steps=  38, Features = 16
+  2854: E[0:00:55]-R[0:00:41]: Return=     0.989, Steps=  12, Features = 16
+  2916: E[0:00:56]-R[0:00:40]: Return=     0.989, Steps=  12, Features = 16
+  2964: E[0:00:57]-R[0:00:39]: Return=    -1.001, Steps=   2, Features = 16
+  3000: E[0:00:58]-R[0:00:39]: Return=     0.995, Steps=   6, Features = 16
+  3000: >>> E[0:00:58]-R[0:00:39]: Return=    0.6127, Steps=8.28, Features = 16
+  3060: E[0:00:59]-R[0:00:37]: Return=     0.989, Steps=  12, Features = 16
+  3110: E[0:01:00]-R[0:00:37]: Return=     0.993, Steps=   8, Features = 16
+  3166: E[0:01:01]-R[0:00:36]: Return=     0.967, Steps=  34, Features = 16
+  3230: E[0:01:03]-R[0:00:34]: Return=     0.979, Steps=  22, Features = 16
+  3288: E[0:01:04]-R[0:00:33]: Return=     0.975, Steps=  26, Features = 16
+  3376: E[0:01:05]-R[0:00:31]: Return=     0.981, Steps=  20, Features = 16
+  3468: E[0:01:06]-R[0:00:29]: Return=     0.993, Steps=   8, Features = 16
+  3500: >>> E[0:01:07]-R[0:00:29]: Return=    0.5929, Steps=8.08, Features = 16
+  3576: E[0:01:08]-R[0:00:27]: Return=     0.993, Steps=   8, Features = 16
+  3670: E[0:01:09]-R[0:00:25]: Return=     0.995, Steps=   6, Features = 16
+  3760: E[0:01:10]-R[0:00:23]: Return=     0.975, Steps=  26, Features = 16
+  3834: E[0:01:11]-R[0:00:22]: Return=     0.971, Steps=  30, Features = 16
+  3912: E[0:01:12]-R[0:00:20]: Return=    -1.007, Steps=   8, Features = 16
+  3988: E[0:01:13]-R[0:00:19]: Return=     0.995, Steps=   6, Features = 16
+  4000: >>> E[0:01:13]-R[0:00:18]: Return=    0.7133, Steps=7.74, Features = 16
+  4076: E[0:01:15]-R[0:00:17]: Return=     0.993, Steps=   8, Features = 16
+  4152: E[0:01:16]-R[0:00:15]: Return=     0.995, Steps=   6, Features = 16
+  4218: E[0:01:17]-R[0:00:14]: Return=    -1.015, Steps=  16, Features = 16
+  4296: E[0:01:18]-R[0:00:13]: Return=     0.977, Steps=  24, Features = 16
+  4374: E[0:01:19]-R[0:00:11]: Return=     0.995, Steps=   6, Features = 16
+  4464: E[0:01:20]-R[0:00:10]: Return=     0.987, Steps=  14, Features = 16
+  4500: >>> E[0:01:20]-R[0:00:09]: Return=    0.6127, Steps=8.28, Features = 16
+  4576: E[0:01:21]-R[0:00:08]: Return=     0.995, Steps=   6, Features = 16
+  4664: E[0:01:23]-R[0:00:06]: Return=     0.993, Steps=   8, Features = 16
+  4742: E[0:01:24]-R[0:00:05]: Return=    -1.003, Steps=   4, Features = 16
+  4818: E[0:01:25]-R[0:00:03]: Return=     0.991, Steps=  10, Features = 16
+  4888: E[0:01:26]-R[0:00:02]: Return=     0.993, Steps=   8, Features = 16
+  4966: E[0:01:27]-R[0:00:01]: Return=     0.991, Steps=  10, Features = 16
+  5000: >>> E[0:01:27]-R[0:00:00]: Return=    0.5139, Steps=7.14, Features = 16
+Total Experiment Duration 0:01:27
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    46: E[0:00:01]-R[0:00:14]: Return=    -1.021, Steps=  22, Features = 16
+   100: >>> E[0:00:01]-R[0:00:13]: Return=    -1.012, Steps=12.72, Features = 16
+   184: E[0:00:03]-R[0:00:12]: Return=     0.985, Steps=  16, Features = 16
+   200: >>> E[0:00:03]-R[0:00:11]: Return=    0.0023, Steps=18.7, Features = 16
+   284: E[0:00:04]-R[0:00:10]: Return=     0.987, Steps=  14, Features = 16
+   300: >>> E[0:00:04]-R[0:00:10]: Return=    0.2923, Steps=8.74, Features = 16
+   386: E[0:00:05]-R[0:00:08]: Return=     0.987, Steps=  14, Features = 16
+   400: >>> E[0:00:05]-R[0:00:08]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:07]-R[0:00:07]: Return=     0.308, Steps=12.98, Features = 16
+   580: E[0:00:08]-R[0:00:06]: Return=    -1.007, Steps=   8, Features = 16
+   600: >>> E[0:00:08]-R[0:00:05]: Return=    0.4521, Steps=8.92, Features = 16
+   678: E[0:00:09]-R[0:00:04]: Return=     0.989, Steps=  12, Features = 16
+   700: >>> E[0:00:09]-R[0:00:04]: Return=     0.533, Steps=7.98, Features = 16
+   792: E[0:00:11]-R[0:00:03]: Return=     0.975, Steps=  26, Features = 16
+   800: >>> E[0:00:11]-R[0:00:03]: Return=    0.4328, Steps=8.24, Features = 16
+   900: >>> E[0:00:12]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+   978: E[0:00:13]-R[0:00:00]: Return=    -1.007, Steps=   8, Features = 16
+  1000: >>> E[0:00:14]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:14
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    66: E[0:00:01]-R[0:00:10]: Return=    -1.003, Steps=   4, Features = 16
+   100: >>> E[0:00:01]-R[0:00:09]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:08]: Return=    0.0023, Steps=18.7, Features = 16
+   300: >>> E[0:00:03]-R[0:00:07]: Return=    0.2923, Steps=8.74, Features = 16
+   400: >>> E[0:00:04]-R[0:00:06]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:05]-R[0:00:05]: Return=     0.308, Steps=12.98, Features = 16
+   600: >>> E[0:00:06]-R[0:00:04]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:07]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   792: E[0:00:08]-R[0:00:02]: Return=     0.975, Steps=  26, Features = 16
+   800: >>> E[0:00:08]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+   864: E[0:00:09]-R[0:00:01]: Return=    -1.005, Steps=   6, Features = 16
+   900: >>> E[0:00:10]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+   958: E[0:00:11]-R[0:00:00]: Return=    -1.003, Steps=   4, Features = 16
+  1000: >>> E[0:00:11]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:11
+Output:			./Results/Experiment1/
+     0: >>> E[0:00:00]-R[?]: Return=   -0.8642, Steps= 5.2, Features = 16
+    62: E[0:00:01]-R[0:00:10]: Return=    -1.015, Steps=  16, Features = 16
+   100: >>> E[0:00:01]-R[0:00:09]: Return=    -1.012, Steps=12.72, Features = 16
+   200: >>> E[0:00:02]-R[0:00:08]: Return=    0.0023, Steps=18.7, Features = 16
+   300: E[0:00:03]-R[0:00:07]: Return=     0.991, Steps=  10, Features = 16
+   300: >>> E[0:00:03]-R[0:00:07]: Return=    0.2923, Steps=8.74, Features = 16
+   400: >>> E[0:00:04]-R[0:00:06]: Return=    0.3283, Steps=12.66, Features = 16
+   500: >>> E[0:00:05]-R[0:00:05]: Return=     0.308, Steps=12.98, Features = 16
+   600: >>> E[0:00:06]-R[0:00:04]: Return=    0.4521, Steps=8.92, Features = 16
+   700: >>> E[0:00:07]-R[0:00:03]: Return=     0.533, Steps=7.98, Features = 16
+   800: >>> E[0:00:08]-R[0:00:02]: Return=    0.4328, Steps=8.24, Features = 16
+   900: >>> E[0:00:09]-R[0:00:01]: Return=    0.4923, Steps=8.72, Features = 16
+  1000: >>> E[0:00:10]-R[0:00:00]: Return=    0.5726, Steps=8.42, Features = 16
+Total Experiment Duration 0:00:10
+Output:			./Results/Experiment1/
